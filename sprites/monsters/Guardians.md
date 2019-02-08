@@ -65,7 +65,7 @@ This is a comprehensive list of all available Guarian Monsters.
 |18_0       |Jewlly     |![](./128x128/18_0.png)|                       |   |           |Jewel jellyfish        |
 |18_1       |Jhale      |![](./128x128/18_1.png)|                       |   |           |Jewel whale            |
 |18_2       |Jhocto     |![](./128x128/18_2.png)|                       |   |           |Jewel octopus          |
-|19_0       |Caky       |![](./128x128|19_0.png)|                       |   |           |Cake boy               |
+|19_0       |Caky       |![](./128x128/19_0.png)|                       |   |           |Cake boy               |
 |19_1       |Caack      |![](./128x128/19_1.png)|                       |   |           |Cake stack             |
 |19_2       |Candike    |![](./128x128/19_2.png)|                       |   |           |Candy cake             |
 |20_0       |Speetle    |![](./128x128/20_0.png)|                       |   |           |Spider beetle          |
