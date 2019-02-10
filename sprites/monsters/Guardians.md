@@ -21,7 +21,7 @@ This is a comprehensive list of all available Guarian Monsters.
 |ID         |Name                                       |Sprite                 |16x16                  |64x64                  |Name Origin            |
 |-----------|-------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 |0_0        |[Egg](./encyclo/0_0_Egg.md)                |![](./128x128/0_0.png) |![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |                       |
-|1_0        |[Fordin](./encyclo/1_0_Fordin.md)          |![](./128x128/1_0.png) |![](./16x16/1_0.png)   |![](./64x64/1_0.png)   |Forest dinosaur        |
+|1_0        |[Fordin](./encyclo/1_Fordin.md)            |![](./128x128/1_0.png) |![](./16x16/1_0.png)   |![](./64x64/1_0.png)   |Forest dinosaur        |
 |1_1        |Stegofor   |![](./128x128/1_1.png) |![](./16x16/1_1.png)   |![](./64x64/0_0.png)   |Stegosaurus forest     |
 |1_2        |Brachifor  |![](./128x128/1_2.png) |![](./16x16/1_2.png)   |![](./64x64/0_0.png)   |Brachiosaurus forest   |
 |2_0        |Kroki      |![](./128x128/2_0.png) |![](./16x16/2_0.png)   |![](./64x64/0_0.png)   |Crocodile              |
