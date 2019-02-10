@@ -1,4 +1,4 @@
-Egg [> Fordin](./1_0_Fordin.md)
+Egg [> Fordin](./1.md)
 
 # 0.0 Egg
 

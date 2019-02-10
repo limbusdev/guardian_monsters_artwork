@@ -18,21 +18,21 @@ The monsters and sprites listed here are under Creative Commons 4.0 (CC-BY-4.0).
 
 This is a comprehensive list of all available Guarian Monsters.
 
-|ID         |Name                                       |Sprite                 |16x16                  |64x64                  |Name Origin            |
-|-----------|-------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|0_0        |[Egg](./encyclo/0_0_Egg.md)                |![](./128x128/0_0.png) |![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |                       |
-|1_0        |[Fordin](./encyclo/1_Fordin.md)            |![](./128x128/1_0.png) |![](./16x16/1_0.png)   |![](./64x64/1_0.png)   |Forest dinosaur        |
-|1_1        |Stegofor   |![](./128x128/1_1.png) |![](./16x16/1_1.png)   |![](./64x64/0_0.png)   |Stegosaurus forest     |
-|1_2        |Brachifor  |![](./128x128/1_2.png) |![](./16x16/1_2.png)   |![](./64x64/0_0.png)   |Brachiosaurus forest   |
-|2_0        |Kroki      |![](./128x128/2_0.png) |![](./16x16/2_0.png)   |![](./64x64/0_0.png)   |Crocodile              |
-|2_1        |Krokivip   |![](./128x128/2_1.png) |                       |![](./64x64/0_0.png)   |Crocodile viper        |
-|2_2        |Leviadile  |![](./128x128/2_2.png) |                       |![](./64x64/0_0.png)   |Leviathan crocodile    |
-|3_0        |Devidin    |![](./128x128/3_0.png) |![](./16x16/3_0.png)   |![](./64x64/0_0.png)   |Devil dinosaur         |
-|3_1        |Devidra    |![](./128x128/3_1.png) |![](./16x16/3_1.png)   |![](./64x64/0_0.png)   |Devil dragon           |
-|3_2        |Deviraptor |![](./128x128/3_2.png) |                       |![](./64x64/0_0.png)   |Devil raptor           |
-|4_0        |Aerodin    |![](./128x128/4_0.png) |                       |![](./64x64/0_0.png)   |Air dinosaur           |
-|4_1        |Aerodeer   |![](./128x128/4_1.png) |                       |![](./64x64/0_0.png)   |Air deer               |
-|4_2        |Aerostag   |![](./128x128/4_2.png) |                       |![](./64x64/0_0.png)   |Air stag               |
+|ID         |Name                               |Sprite                 |16x16                  |64x64                  |Name Origin            |
+|-----------|-----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+|0_0        |[Egg](./encyclo/0_0_Egg.md)        |![](./128x128/0_0.png) |![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |                       |
+|1_0        |[Fordin](./encyclo/1.md)           |![](./128x128/1_0.png) |![](./16x16/1_0.png)   |![](./64x64/1_0.png)   |Forest dinosaur        |
+|1_1        |[Stegofor](./encyclo/1.md)         |![](./128x128/1_1.png) |![](./16x16/1_1.png)   |![](./64x64/0_0.png)   |Stegosaurus forest     |
+|1_2        |[Brachifor](./encyclo/1.md)        |![](./128x128/1_2.png) |![](./16x16/1_2.png)   |![](./64x64/0_0.png)   |Brachiosaurus forest   |
+|2_0        |[Kroki](./encyclo/2.md)            |![](./128x128/2_0.png) |![](./16x16/2_0.png)   |![](./64x64/0_0.png)   |Crocodile              |
+|2_1        |[Krokivip](./encyclo/2.md)         |![](./128x128/2_1.png) |                       |![](./64x64/0_0.png)   |Crocodile viper        |
+|2_2        |[Leviadile](./encyclo/2.md)        |![](./128x128/2_2.png) |                       |![](./64x64/0_0.png)   |Leviathan crocodile    |
+|3_0        |[Devidin](./encyclo/3.md)          |![](./128x128/3_0.png) |![](./16x16/3_0.png)   |![](./64x64/0_0.png)   |Devil dinosaur         |
+|3_1        |[Devidra](./encyclo/3.md)          |![](./128x128/3_1.png) |![](./16x16/3_1.png)   |![](./64x64/0_0.png)   |Devil dragon           |
+|3_2        |[Deviraptor](./encyclo/3.md)       |![](./128x128/3_2.png) |                       |![](./64x64/0_0.png)   |Devil raptor           |
+|4_0        |[Aerodin](./encyclo/4.md)          |![](./128x128/4_0.png) |                       |![](./64x64/0_0.png)   |Air dinosaur           |
+|4_1        |[Aerodeer](./encyclo/4.md)         |![](./128x128/4_1.png) |                       |![](./64x64/0_0.png)   |Air deer               |
+|4_2        |[Aerostag](./encyclo/4.md)         |![](./128x128/4_2.png) |                       |![](./64x64/0_0.png)   |Air stag               |
 |5_0        |Weastoat   |![](./128x128/5_0.png) |![](./16x16/5_0.png)   |![](./64x64/0_0.png)   |Weasel toat            |
 |6_0        |Mooty      |![](./128x128/6_0.png) |![](./16x16/6_0.png)   |![](./64x64/0_0.png)   |Moon kitty             |
 |6_1        |Camoon     |![](./128x128/6_1.png) |                       |![](./64x64/0_0.png)   |Cat moon               |
