@@ -100,7 +100,7 @@ Vollständige Liste aller bisher erschienenen Guardian Monsters.
 |42_1       |Kugurm     |![](./128x128/42_1.png)|                       |   |           |Sphere snake           |
 |42_2       |Mahlsturm  |![](./128x128/42_2.png)|                       |   |           |Mill lord              |
 |43_0       |Auschel    |![](./128x128/43_0.png)|                       |   |           |Shell eye              |
-|43_1       |Mubbe      |![](./128x128/43_1.png)|                       |   |           |Shell crab             |
+|43_1       |Fingkrabb  |![](./128x128/43_1.png)|                       |   |           |Shell crab             |
 |44_0       |Roton      |![](./128x128/44_0.png)|                       |   |           |Android ton            |
 |44_1       |Roban      |![](./128x128/44_1.png)|                       |   |           |Android main           |
 |45_0       |Frettel    |![](./128x128/45_0.png)|                       |   |           |Ferret shell           |
