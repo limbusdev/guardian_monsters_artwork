@@ -29,56 +29,56 @@ This is a comprehensive list of all available Guarian Monsters.
 |2_2        |[Leviadile](./encyclo/2.md)        |![](./128x128/2_2.png) |                       |![](./64x64/0_0.png)   |Leviathan crocodile    |
 |3_0        |[Devidin](./encyclo/3.md)          |![](./128x128/3_0.png) |![](./16x16/3_0.png)   |![](./64x64/0_0.png)   |Devil dinosaur         |
 |3_1        |[Devidra](./encyclo/3.md)          |![](./128x128/3_1.png) |![](./16x16/3_1.png)   |![](./64x64/0_0.png)   |Devil dragon           |
-|3_2        |[Deviraptor](./encyclo/3.md)       |![](./128x128/3_2.png) |                       |![](./64x64/0_0.png)   |Devil raptor           |
+|3_2        |[Deviraptor](./encyclo/3.md)       |![](./128x128/3_2.png) |![](./16x16/3_2.png)   |![](./64x64/0_0.png)   |Devil raptor           |
 |4_0        |[Aerodin](./encyclo/4.md)          |![](./128x128/4_0.png) |                       |![](./64x64/0_0.png)   |Air dinosaur           |
 |4_1        |[Aerodeer](./encyclo/4.md)         |![](./128x128/4_1.png) |                       |![](./64x64/0_0.png)   |Air deer               |
 |4_2        |[Aerostag](./encyclo/4.md)         |![](./128x128/4_2.png) |                       |![](./64x64/0_0.png)   |Air stag               |
-|5_0        |Weastoat   |![](./128x128/5_0.png) |![](./16x16/5_0.png)   |![](./64x64/0_0.png)   |Weasel toat            |
-|6_0        |Mooty      |![](./128x128/6_0.png) |![](./16x16/6_0.png)   |![](./64x64/0_0.png)   |Moon kitty             |
-|6_1        |Camoon     |![](./128x128/6_1.png) |                       |![](./64x64/0_0.png)   |Cat moon               |
-|6_2        |Moopard    |![](./128x128/6_2.png) |                       |![](./64x64/0_0.png)   |Moon leopard           |
-|7_0        |Wuppy      |![](./128x128/7_0.png) |                       |![](./64x64/0_0.png)   |Worm puppy             |
-|7_1        |Earog      |![](./128x128/7_1.png) |                       |![](./64x64/0_0.png)   |Ear dog                |
-|7_2        |Deemog     |![](./128x128/7_2.png) |                       |![](./64x64/0_0.png)   |Demon dog              |
-|8_0        |Dradder    |![](./128x128/8_0.png) |                       |![](./64x64/0_0.png)   |Dread adder            |
-|8_1        |Driper     |![](./128x128/8_1.png) |                       |![](./64x64/0_0.png)   |Dread viper            |
-|9_0        |Spreye     |![](./128x128/9_0.png) |                       |![](./64x64/0_0.png)   |Spring eye             |
-|9_1        |Buttereye  |![](./128x128/9_1.png) |                       |![](./64x64/0_0.png)   |Butterfly eye          |
-|10_0       |Duggot     |![](./128x128/10_0.png)|                       |![](./64x64/0_0.png)   |Double maggot          |
-|10_1       |Breem      |![](./128x128/10_1.png)|                       |![](./64x64/0_0.png)   |Bee worm               |
-|11_0       |Marvillar  |![](./128x128/11_0.png)|                       |![](./64x64/0_0.png)   |Marvellous caterpillar |
-|11_1       |Marvantis  |![](./128x128/11_1.png)|                       |![](./64x64/0_0.png)   |Marvellous mantis      |
-|12_0       |Palmpot    |![](./128x128/12_0.png)|                       |![](./64x64/0_0.png)   |Palmtree pot           |
-|12_1       |Bonose     |![](./128x128/12_1.png)|                       |![](./64x64/0_0.png)   |Bonsai nose            |
-|13_0       |Erimat     |![](./128x128/13_0.png)|                       |![](./64x64/0_0.png)   |Hermit aspirant        |
-|13_1       |Erichief   |![](./128x128/13_1.png)|                       |![](./64x64/0_0.png)   |Hermit chief           |
-|14_0       |Eggatch    |![](./128x128/14_0.png)|                       |![](./64x64/0_0.png)   |Hatching egg           |
-|14_1       |Owlock     |![](./128x128/14_1.png)|                       |![](./64x64/0_0.png)   |Owl lock               |
-|15_0       |Flummby    |![](./128x128/15_0.png)|                       |![](./64x64/0_0.png)   |Flummery boy           |
-|15_1       |Flummack   |![](./128x128/15_1.png)|                       |![](./64x64/0_0.png)   |Flummery stack         |
-|16_0       |Neptisch   |![](./128x128/16_0.png)|                       |![](./64x64/0_0.png)   |Neptun fish            |
-|16_1       |Nepdron    |![](./128x128/16_1.png)|                       |![](./64x64/0_0.png)   |Neptun dragon          |
-|16_2       |Nepungandr |![](./128x128/16_2.png)|                       |![](./64x64/0_0.png)   |Neptun Jörmungandr     |
-|17_0       |Angenna    |![](./128x128/17_0.png)|                       |![](./64x64/0_0.png)   |Angel antenna          |
-|17_1       |Angose     |![](./128x128/17_1.png)|                       |![](./64x64/0_0.png)   |Angel nose             |
-|17_2       |Aethangel  |![](./128x128/17_2.png)|                       |![](./64x64/0_0.png)   |Aetherical angel       |
-|18_0       |Jewlly     |![](./128x128/18_0.png)|                       |![](./64x64/0_0.png)   |Jewel jellyfish        |
-|18_1       |Jhale      |![](./128x128/18_1.png)|                       |![](./64x64/0_0.png)   |Jewel whale            |
-|18_2       |Jhocto     |![](./128x128/18_2.png)|                       |![](./64x64/0_0.png)   |Jewel octopus          |
-|19_0       |Caky       |![](./128x128/19_0.png)|                       |![](./64x64/0_0.png)   |Cake boy               |
-|19_1       |Caack      |![](./128x128/19_1.png)|                       |![](./64x64/0_0.png)   |Cake stack             |
-|19_2       |Candike    |![](./128x128/19_2.png)|                       |![](./64x64/0_0.png)   |Candy cake             |
-|20_0       |Speetle    |![](./128x128/20_0.png)|                       |![](./64x64/0_0.png)   |Spider beetle          |
-|20_1       |Spadybug   |![](./128x128/20_1.png)|                       |![](./64x64/0_0.png)   |Spider ladybug         |
-|20_2       |Spacules   |![](./128x128/20_2.png)|                       |![](./64x64/0_0.png)   |Spider hercules bug    |
-|21_0       |Buuni      |![](./128x128/21_0.png)|                       |![](./64x64/0_0.png)   |Bunny                  |
-|21_1       |Bibuuni    |![](./128x128/21_1.png)|                       |![](./64x64/0_0.png)   |Bigger bunny           |
-|21_2       |Bobuuni    |![](./128x128/21_2.png)|                       |![](./64x64/0_0.png)   |Boxer bunny            |
-|22_0       |Squish     |![](./128x128/22_0.png)|                       |![](./64x64/0_0.png)   |Squinting fish         |
-|22_1       |Bagish     |![](./128x128/22_1.png)|                       |![](./64x64/0_0.png)   |Bagel fish             |
-|23_0       |Palander   |![](./128x128/23_0.png)|                       |![](./64x64/0_0.png)   |Pink salamander        |
-|24_0       |Binoraffe  |![](./128x128/24_0.png)|                       |![](./64x64/0_0.png)   |Binocular giraffe      |
-|25_0       |Trasto     |![](./128x128/25_0.png)|                       |![](./64x64/0_0.png)   |Transparent gastronomy |
+|5_0        |Weastoat                           |![](./128x128/5_0.png) |![](./16x16/5_0.png)   |![](./64x64/0_0.png)   |Weasel toat            |
+|6_0        |Mooty                              |![](./128x128/6_0.png) |![](./16x16/6_0.png)   |![](./64x64/0_0.png)   |Moon kitty             |
+|6_1        |Camoon                             |![](./128x128/6_1.png) |                       |![](./64x64/0_0.png)   |Cat moon               |
+|6_2        |Moopard                            |![](./128x128/6_2.png) |                       |![](./64x64/0_0.png)   |Moon leopard           |
+|7_0        |Wuppy                              |![](./128x128/7_0.png) |![](./16x16/7_0.png)   |![](./64x64/0_0.png)   |Worm puppy             |
+|7_1        |Earog                              |![](./128x128/7_1.png) |                       |![](./64x64/0_0.png)   |Ear dog                |
+|7_2        |Deemog                             |![](./128x128/7_2.png) |                       |![](./64x64/0_0.png)   |Demon dog              |
+|8_0        |Dradder                            |![](./128x128/8_0.png) |![](./16x16/8_0.png)   |![](./64x64/0_0.png)   |Dread adder            |
+|8_1        |Driper                             |![](./128x128/8_1.png) |                       |![](./64x64/0_0.png)   |Dread viper            |
+|9_0        |Spreye                             |![](./128x128/9_0.png) |                       |![](./64x64/0_0.png)   |Spring eye             |
+|9_1        |Buttereye                          |![](./128x128/9_1.png) |                       |![](./64x64/0_0.png)   |Butterfly eye          |
+|10_0       |Duggot                             |![](./128x128/10_0.png)|                       |![](./64x64/0_0.png)   |Double maggot          |
+|10_1       |Breem                              |![](./128x128/10_1.png)|                       |![](./64x64/0_0.png)   |Bee worm               |
+|11_0       |Marvillar                          |![](./128x128/11_0.png)|                       |![](./64x64/0_0.png)   |Marvellous caterpillar |
+|11_1       |Marvantis                          |![](./128x128/11_1.png)|                       |![](./64x64/0_0.png)   |Marvellous mantis      |
+|12_0       |Palmpot                            |![](./128x128/12_0.png)|                       |![](./64x64/0_0.png)   |Palmtree pot           |
+|12_1       |Bonose                             |![](./128x128/12_1.png)|                       |![](./64x64/0_0.png)   |Bonsai nose            |
+|13_0       |Erimat                             |![](./128x128/13_0.png)|                       |![](./64x64/0_0.png)   |Hermit aspirant        |
+|13_1       |Erichief                           |![](./128x128/13_1.png)|                       |![](./64x64/0_0.png)   |Hermit chief           |
+|14_0       |Eggatch                            |![](./128x128/14_0.png)|                       |![](./64x64/0_0.png)   |Hatching egg           |
+|14_1       |Owlock                             |![](./128x128/14_1.png)|                       |![](./64x64/0_0.png)   |Owl lock               |
+|15_0       |Flummby                            |![](./128x128/15_0.png)|                       |![](./64x64/0_0.png)   |Flummery boy           |
+|15_1       |Flummack                           |![](./128x128/15_1.png)|                       |![](./64x64/0_0.png)   |Flummery stack         |
+|16_0       |Neptisch                           |![](./128x128/16_0.png)|                       |![](./64x64/0_0.png)   |Neptun fish            |
+|16_1       |Nepdron                            |![](./128x128/16_1.png)|                       |![](./64x64/0_0.png)   |Neptun dragon          |
+|16_2       |Nepungandr                         |![](./128x128/16_2.png)|                       |![](./64x64/0_0.png)   |Neptun Jörmungandr     |
+|17_0       |Angenna                            |![](./128x128/17_0.png)|                       |![](./64x64/0_0.png)   |Angel antenna          |
+|17_1       |Angose                             |![](./128x128/17_1.png)|                       |![](./64x64/0_0.png)   |Angel nose             |
+|17_2       |Aethangel                          |![](./128x128/17_2.png)|                       |![](./64x64/0_0.png)   |Aetherical angel       |
+|18_0       |Jewlly                             |![](./128x128/18_0.png)|                       |![](./64x64/0_0.png)   |Jewel jellyfish        |
+|18_1       |Jhale                              |![](./128x128/18_1.png)|                       |![](./64x64/0_0.png)   |Jewel whale            |
+|18_2       |Jhocto                             |![](./128x128/18_2.png)|                       |![](./64x64/0_0.png)   |Jewel octopus          |
+|19_0       |Caky                               |![](./128x128/19_0.png)|                       |![](./64x64/0_0.png)   |Cake boy               |
+|19_1       |Caack                              |![](./128x128/19_1.png)|                       |![](./64x64/0_0.png)   |Cake stack             |
+|19_2       |Candike                            |![](./128x128/19_2.png)|                       |![](./64x64/0_0.png)   |Candy cake             |
+|20_0       |Speetle                            |![](./128x128/20_0.png)|![](./16x16/20_0.png)  |![](./64x64/0_0.png)   |Spider beetle          |
+|20_1       |Spadybug                           |![](./128x128/20_1.png)|                       |![](./64x64/0_0.png)   |Spider ladybug         |
+|20_2       |Spacules                           |![](./128x128/20_2.png)|![](./16x16/20_2.png)  |![](./64x64/0_0.png)   |Spider hercules bug    |
+|21_0       |Buuni                              |![](./128x128/21_0.png)|                       |![](./64x64/0_0.png)   |Bunny                  |
+|21_1       |Bibuuni                            |![](./128x128/21_1.png)|                       |![](./64x64/0_0.png)   |Bigger bunny           |
+|21_2       |Bobuuni                            |![](./128x128/21_2.png)|                       |![](./64x64/0_0.png)   |Boxer bunny            |
+|22_0       |Squish                             |![](./128x128/22_0.png)|![](./16x16/22_0.png)  |![](./64x64/0_0.png)   |Squinting fish         |
+|22_1       |Bagish                             |![](./128x128/22_1.png)|                       |![](./64x64/0_0.png)   |Bagel fish             |
+|23_0       |Palander                           |![](./128x128/23_0.png)|                       |![](./64x64/0_0.png)   |Pink salamander        |
+|24_0       |Binoraffe                          |![](./128x128/24_0.png)|![](./16x16/24_0.png)  |![](./64x64/0_0.png)   |Binocular giraffe      |
+|25_0       |Trasto                             |![](./128x128/25_0.png)|                       |![](./64x64/0_0.png)   |Transparent gastronomy |
 |26_0       |Spall      |![](./128x128/26_0.png)|                       |![](./64x64/0_0.png)   |Spring ball            |
 |26_1       |Grall      |![](./128x128/26_1.png)|                       |![](./64x64/0_0.png)   |Grim ball              |
 |27_0       |Circeece   |![](./128x128/27_0.png)|                       |![](./64x64/0_0.png)   |Circuit board fleece   |
