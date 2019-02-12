@@ -6,6 +6,8 @@ title: Guardian Monsters Artwork
 
 ## Guardian Monsters
 
+Only few restrictions. Look at GitHub for more details.
+
 |ID         |Name                               |Sprite                 |16x16                  |64x64                  |Name Origin            |
 |-----------|-----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 |0_0        |[Egg](./encyclo/0_0_Egg.md)        |![](./sprites/monsters/128x128/0_0.png) |![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |                       |
@@ -108,3 +110,18 @@ title: Guardian Monsters Artwork
 |51_0       |Spirell    |![](./sprites/monsters/128x128/51_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spider shell           |
 |51_1       |Spidion    |![](./sprites/monsters/128x128/51_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spider scorpion        |
 |51_2       |Sporrior   |![](./sprites/monsters/128x128/51_2.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spider warrior         |
+
+
+
+## Deprecated Monsters
+
+Free to use under CC-BY-4.0
+
+|Type           |Sprite                     |
+|---------------|---------------------------|
+|Dinosaur       |![](./sprites/monsters_CC-BY-4.0/000_dinosaur.png)    |
+|Turtle         |![](./sprites/monsters_CC-BY-4.0/001_turtle.png)      |
+|Turtle man     |![](./sprites/monsters_CC-BY-4.0/002_turtleman.png)   |
+|Antenna bug    |![](./sprites/monsters_CC-BY-4.0/003_antenna_bug.png) |
+
+
