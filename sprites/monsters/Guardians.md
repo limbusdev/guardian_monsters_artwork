@@ -46,11 +46,11 @@ This is a comprehensive list of all available Guarian Monsters.
 |9_1        |Buttereye                          |![](./128x128/9_1.png) |![](./16x16/9_1.png)   |![](./64x64/0_0.png)   |Butterfly eye          |
 |10_0       |Duggot                             |![](./128x128/10_0.png)|![](./16x16/10_0.png)  |![](./64x64/0_0.png)   |Double maggot          |
 |10_1       |Breem                              |![](./128x128/10_1.png)|![](./16x16/10_1.png)  |![](./64x64/0_0.png)   |Bee worm               |
-|11_0       |Marvillar                          |![](./128x128/11_0.png)|                       |![](./64x64/0_0.png)   |Marvellous caterpillar |
-|11_1       |Marvantis                          |![](./128x128/11_1.png)|                       |![](./64x64/0_0.png)   |Marvellous mantis      |
-|12_0       |Palmpot                            |![](./128x128/12_0.png)|                       |![](./64x64/0_0.png)   |Palmtree pot           |
-|12_1       |Bonose                             |![](./128x128/12_1.png)|                       |![](./64x64/0_0.png)   |Bonsai nose            |
-|13_0       |Erimat                             |![](./128x128/13_0.png)|                       |![](./64x64/0_0.png)   |Hermit aspirant        |
+|11_0       |Marvillar                          |![](./128x128/11_0.png)|![](./16x16/11_0.png)  |![](./64x64/0_0.png)   |Marvellous caterpillar |
+|11_1       |Marvantis                          |![](./128x128/11_1.png)|![](./16x16/11_1.png)  |![](./64x64/0_0.png)   |Marvellous mantis      |
+|12_0       |Palmpot                            |![](./128x128/12_0.png)|![](./16x16/12_0.png)  |![](./64x64/0_0.png)   |Palmtree pot           |
+|12_1       |Bonose                             |![](./128x128/12_1.png)|![](./16x16/12_1.png)  |![](./64x64/0_0.png)   |Bonsai nose            |
+|13_0       |Erimat                             |![](./128x128/13_0.png)|![](./16x16/13_0.png)  |![](./64x64/0_0.png)   |Hermit aspirant        |
 |13_1       |Erichief                           |![](./128x128/13_1.png)|                       |![](./64x64/0_0.png)   |Hermit chief           |
 |14_0       |Eggatch                            |![](./128x128/14_0.png)|                       |![](./64x64/0_0.png)   |Hatching egg           |
 |14_1       |Owlock                             |![](./128x128/14_1.png)|                       |![](./64x64/0_0.png)   |Owl lock               |

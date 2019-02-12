@@ -36,11 +36,11 @@ Only few restrictions. Look at GitHub for more details.
 |9_1        |Buttereye                          |![](./sprites/monsters/128x128/9_1.png) |![](./sprites/monsters/16x16/9_1.png)   |![](./sprites/monsters/64x64/0_0.png)   |Butterfly eye          |
 |10_0       |Duggot                             |![](./sprites/monsters/128x128/10_0.png)|![](./sprites/monsters/16x16/10_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Double maggot          |
 |10_1       |Breem                              |![](./sprites/monsters/128x128/10_1.png)|![](./sprites/monsters/16x16/10_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Bee worm               |
-|11_0       |Marvillar                          |![](./sprites/monsters/128x128/11_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Marvellous caterpillar |
-|11_1       |Marvantis                          |![](./sprites/monsters/128x128/11_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Marvellous mantis      |
-|12_0       |Palmpot                            |![](./sprites/monsters/128x128/12_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Palmtree pot           |
-|12_1       |Bonose                             |![](./sprites/monsters/128x128/12_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Bonsai nose            |
-|13_0       |Erimat                             |![](./sprites/monsters/128x128/13_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Hermit aspirant        |
+|11_0       |Marvillar                          |![](./sprites/monsters/128x128/11_0.png)|![](./sprites/monsters/16x16/11_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Marvellous caterpillar |
+|11_1       |Marvantis                          |![](./sprites/monsters/128x128/11_1.png)|![](./sprites/monsters/16x16/11_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Marvellous mantis      |
+|12_0       |Palmpot                            |![](./sprites/monsters/128x128/12_0.png)|![](./sprites/monsters/16x16/12_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Palmtree pot           |
+|12_1       |Bonose                             |![](./sprites/monsters/128x128/12_1.png)|![](./sprites/monsters/16x16/12_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Bonsai nose            |
+|13_0       |Erimat                             |![](./sprites/monsters/128x128/13_0.png)|![](./sprites/monsters/16x16/13_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Hermit aspirant        |
 |13_1       |Erichief                           |![](./sprites/monsters/128x128/13_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Hermit chief           |
 |14_0       |Eggatch                            |![](./sprites/monsters/128x128/14_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Hatching egg           |
 |14_1       |Owlock                             |![](./sprites/monsters/128x128/14_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Owl lock               |
