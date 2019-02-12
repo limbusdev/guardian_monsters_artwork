@@ -10,8 +10,8 @@ Only few restrictions. Look at GitHub for more details.
 
 |ID         |Name                               |Sprite                 |16x16                  |64x64                  |Name Origin            |
 |-----------|-----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|0_0        |[Egg](./encyclo/0_0_Egg.md)        |![](./sprites/monsters/128x128/0_0.png) |![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |                       |
-|1_0        |[Fordin](./encyclo/1.md)           |![](./sprites/monsters/128x128/1_0.png) |![](./sprites/monsters/16x16/1_0.png)   |![](./sprites/monsters/64x64/1_0.png)   |Forest dinosaur        |
+|0_0        |[Egg](./encyclo/0_0_Egg.md)        |![](./sprites/monsters/128x128/0_0.png) |![](./sprites/monsters/animation_16x16/0_0.gif)   |![](./sprites/monsters/64x64/0_0.png)   |                       |
+|1_0        |[Fordin](./encyclo/1.md)           |![](./sprites/monsters/128x128/1_0.png) |![](./sprites/monsters/animation_16x16/1_0.gif)   |![](./sprites/monsters/64x64/1_0.png)   |Forest dinosaur        |
 |1_1        |[Stegofor](./encyclo/1.md)         |![](./sprites/monsters/128x128/1_1.png) |![](./sprites/monsters/16x16/1_1.png)   |![](./sprites/monsters/64x64/0_0.png)   |Stegosaurus forest     |
 |1_2        |[Brachifor](./encyclo/1.md)        |![](./sprites/monsters/128x128/1_2.png) |![](./sprites/monsters/16x16/1_2.png)   |![](./sprites/monsters/64x64/0_0.png)   |Brachiosaurus forest   |
 |2_0        |[Kroki](./encyclo/2.md)            |![](./sprites/monsters/128x128/2_0.png) |![](./sprites/monsters/16x16/2_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |Crocodile              |
