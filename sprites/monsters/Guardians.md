@@ -35,17 +35,17 @@ This is a comprehensive list of all available Guarian Monsters.
 |4_2        |[Aerostag](./encyclo/4.md)         |![](./128x128/4_2.png) |![](./16x16/4_2.png)   |![](./64x64/0_0.png)   |Air stag               |
 |5_0        |Weastoat                           |![](./128x128/5_0.png) |![](./16x16/5_0.png)   |![](./64x64/0_0.png)   |Weasel toat            |
 |6_0        |Mooty                              |![](./128x128/6_0.png) |![](./16x16/6_0.png)   |![](./64x64/0_0.png)   |Moon kitty             |
-|6_1        |Camoon                             |![](./128x128/6_1.png) |                       |![](./64x64/0_0.png)   |Cat moon               |
-|6_2        |Moopard                            |![](./128x128/6_2.png) |                       |![](./64x64/0_0.png)   |Moon leopard           |
+|6_1        |Camoon                             |![](./128x128/6_1.png) |![](./16x16/6_1.png)   |![](./64x64/0_0.png)   |Cat moon               |
+|6_2        |Moopard                            |![](./128x128/6_2.png) |![](./16x16/6_2.png)   |![](./64x64/0_0.png)   |Moon leopard           |
 |7_0        |Wuppy                              |![](./128x128/7_0.png) |![](./16x16/7_0.png)   |![](./64x64/0_0.png)   |Worm puppy             |
-|7_1        |Earog                              |![](./128x128/7_1.png) |                       |![](./64x64/0_0.png)   |Ear dog                |
-|7_2        |Deemog                             |![](./128x128/7_2.png) |                       |![](./64x64/0_0.png)   |Demon dog              |
+|7_1        |Earog                              |![](./128x128/7_1.png) |![](./16x16/7_1.png)   |![](./64x64/0_0.png)   |Ear dog                |
+|7_2        |Deemog                             |![](./128x128/7_2.png) |![](./16x16/7_2.png)   |![](./64x64/0_0.png)   |Demon dog              |
 |8_0        |Dradder                            |![](./128x128/8_0.png) |![](./16x16/8_0.png)   |![](./64x64/0_0.png)   |Dread adder            |
-|8_1        |Driper                             |![](./128x128/8_1.png) |                       |![](./64x64/0_0.png)   |Dread viper            |
-|9_0        |Spreye                             |![](./128x128/9_0.png) |                       |![](./64x64/0_0.png)   |Spring eye             |
-|9_1        |Buttereye                          |![](./128x128/9_1.png) |                       |![](./64x64/0_0.png)   |Butterfly eye          |
-|10_0       |Duggot                             |![](./128x128/10_0.png)|                       |![](./64x64/0_0.png)   |Double maggot          |
-|10_1       |Breem                              |![](./128x128/10_1.png)|                       |![](./64x64/0_0.png)   |Bee worm               |
+|8_1        |Driper                             |![](./128x128/8_1.png) |![](./16x16/8_1.png)   |![](./64x64/0_0.png)   |Dread viper            |
+|9_0        |Spreye                             |![](./128x128/9_0.png) |![](./16x16/9_0.png)   |![](./64x64/0_0.png)   |Spring eye             |
+|9_1        |Buttereye                          |![](./128x128/9_1.png) |![](./16x16/9_1.png)   |![](./64x64/0_0.png)   |Butterfly eye          |
+|10_0       |Duggot                             |![](./128x128/10_0.png)|![](./16x16/10_0.png)  |![](./64x64/0_0.png)   |Double maggot          |
+|10_1       |Breem                              |![](./128x128/10_1.png)|![](./16x16/10_1.png)  |![](./64x64/0_0.png)   |Bee worm               |
 |11_0       |Marvillar                          |![](./128x128/11_0.png)|                       |![](./64x64/0_0.png)   |Marvellous caterpillar |
 |11_1       |Marvantis                          |![](./128x128/11_1.png)|                       |![](./64x64/0_0.png)   |Marvellous mantis      |
 |12_0       |Palmpot                            |![](./128x128/12_0.png)|                       |![](./64x64/0_0.png)   |Palmtree pot           |
