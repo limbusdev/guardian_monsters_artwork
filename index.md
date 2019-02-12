@@ -2,7 +2,7 @@
 title: Guardian Monsters Artwork
 ---
 
-![](./sprites/monsters/documents/img/logo.png)
+![](./documents/img/logo.png)
 
 ## Guardian Monsters
 
