@@ -2,6 +2,8 @@
 title: Guardian Monsters Artwork
 ---
 
+![](./documents/img/logo.png)
+
 ## Guardian Monsters
 
 |ID         |Name                               |Sprite                 |16x16                  |64x64                  |Name Origin            |
