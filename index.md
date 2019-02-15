@@ -12,7 +12,7 @@ Only few restrictions. Look at GitHub for more details. In short: Everything is 
 Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
 ```
 
-> On Restriction for monster sprites: keep the names given here.
+> **One Restriction for monster sprites:** keep the names given here.
 
 |ID         |Name                               |Sprite                 |16x16                  |64x64                  |Name Origin            |
 |-----------|-----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
