@@ -6,7 +6,13 @@ title: Guardian Monsters Artwork
 
 ## Guardian Monsters
 
-Only few restrictions. Look at GitHub for more details.
+Only few restrictions. Look at GitHub for more details. In short: Everything is licensed under CC-BY-4.0. Please give credit like this:
+
+```
+Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
+```
+
+> On Restriction for monster sprites: keep the names given here.
 
 |ID         |Name                               |Sprite                 |16x16                  |64x64                  |Name Origin            |
 |-----------|-----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
