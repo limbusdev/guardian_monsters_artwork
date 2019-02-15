@@ -121,7 +121,7 @@ Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
 
 ## Deprecated Monsters
 
-Free to use under CC-BY-4.0
+Free to use under CC-BY-4.0, no name restrictions.
 
 |Type           |Sprite                     |
 |---------------|---------------------------|
