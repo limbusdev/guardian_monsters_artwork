@@ -58,40 +58,40 @@ Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
 |17_0       |Angenna                            |![](./sprites/monsters/128x128/17_0.png)|![](./sprites/monsters/16x16/17_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Angel antenna          |
 |17_1       |Angose                             |![](./sprites/monsters/128x128/17_1.png)|![](./sprites/monsters/16x16/17_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Angel nose             |
 |17_2       |Aethangel                          |![](./sprites/monsters/128x128/17_2.png)|![](./sprites/monsters/16x16/17_2.png)  |![](./sprites/monsters/64x64/0_0.png)   |Aetherical angel       |
-|18_0       |Jewlly                             |![](./sprites/monsters/128x128/18_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Jewel jellyfish        |
-|18_1       |Jhale                              |![](./sprites/monsters/128x128/18_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Jewel whale            |
-|18_2       |Jhocto                             |![](./sprites/monsters/128x128/18_2.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Jewel octopus          |
-|19_0       |Caky                               |![](./sprites/monsters/128x128/19_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Cake boy               |
-|19_1       |Caack                              |![](./sprites/monsters/128x128/19_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Cake stack             |
-|19_2       |Candike                            |![](./sprites/monsters/128x128/19_2.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Candy cake             |
+|18_0       |Jewlly                             |![](./sprites/monsters/128x128/18_0.png)|![](./sprites/monsters/16x16/18_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Jewel jellyfish        |
+|18_1       |Jhale                              |![](./sprites/monsters/128x128/18_1.png)|![](./sprites/monsters/16x16/18_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Jewel whale            |
+|18_2       |Jhocto                             |![](./sprites/monsters/128x128/18_2.png)|![](./sprites/monsters/16x16/18_2.png)  |![](./sprites/monsters/64x64/0_0.png)   |Jewel octopus          |
+|19_0       |Caky                               |![](./sprites/monsters/128x128/19_0.png)|![](./sprites/monsters/16x16/19_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Cake boy               |
+|19_1       |Caack                              |![](./sprites/monsters/128x128/19_1.png)|![](./sprites/monsters/16x16/19_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Cake stack             |
+|19_2       |Candike                            |![](./sprites/monsters/128x128/19_2.png)|![](./sprites/monsters/16x16/19_2.png)  |![](./sprites/monsters/64x64/0_0.png)   |Candy cake             |
 |20_0       |Speetle                            |![](./sprites/monsters/128x128/20_0.png)|![](./sprites/monsters/16x16/20_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Spider beetle          |
-|20_1       |Spadybug                           |![](./sprites/monsters/128x128/20_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spider ladybug         |
+|20_1       |Spadybug                           |![](./sprites/monsters/128x128/20_1.png)|![](./sprites/monsters/16x16/20_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Spider ladybug         |
 |20_2       |Spacules                           |![](./sprites/monsters/128x128/20_2.png)|![](./sprites/monsters/16x16/20_2.png)  |![](./sprites/monsters/64x64/0_0.png)   |Spider hercules bug    |
-|21_0       |Buuni                              |![](./sprites/monsters/128x128/21_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Bunny                  |
-|21_1       |Bibuuni                            |![](./sprites/monsters/128x128/21_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Bigger bunny           |
-|21_2       |Bobuuni                            |![](./sprites/monsters/128x128/21_2.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Boxer bunny            |
+|21_0       |Buuni                              |![](./sprites/monsters/128x128/21_0.png)|![](./sprites/monsters/16x16/21_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Bunny                  |
+|21_1       |Bibuuni                            |![](./sprites/monsters/128x128/21_1.png)|![](./sprites/monsters/16x16/21_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Bigger bunny           |
+|21_2       |Bobuuni                            |![](./sprites/monsters/128x128/21_2.png)|![](./sprites/monsters/16x16/21_2.png)  |![](./sprites/monsters/64x64/0_0.png)   |Boxer bunny            |
 |22_0       |Squish                             |![](./sprites/monsters/128x128/22_0.png)|![](./sprites/monsters/16x16/22_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Squinting fish         |
-|22_1       |Bagish                             |![](./sprites/monsters/128x128/22_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Bagel fish             |
-|23_0       |Palander                           |![](./sprites/monsters/128x128/23_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Pink salamander        |
+|22_1       |Bagish                             |![](./sprites/monsters/128x128/22_1.png)|![](./sprites/monsters/16x16/22_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Bagel fish             |
+|23_0       |Palander                           |![](./sprites/monsters/128x128/23_0.png)|![](./sprites/monsters/16x16/23_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Pink salamander        |
 |24_0       |Binoraffe                          |![](./sprites/monsters/128x128/24_0.png)|![](./sprites/monsters/16x16/24_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Binocular giraffe      |
-|25_0       |Trasto                             |![](./sprites/monsters/128x128/25_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Transparent gastronomy |
-|26_0       |Spall      |![](./sprites/monsters/128x128/26_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spring ball            |
-|26_1       |Grall      |![](./sprites/monsters/128x128/26_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Grim ball              |
-|27_0       |Circeece   |![](./sprites/monsters/128x128/27_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Circuit board fleece   |
-|27_1       |Quanthus   |![](./sprites/monsters/128x128/27_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Quantum rhombus        |
-|28_0       |Spectrug   |![](./sprites/monsters/128x128/28_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spectrum bug           |
-|29_0       |Clocky     |![](./sprites/monsters/128x128/29_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Clock                  |
-|30_0       |Sabertaur  |![](./sprites/monsters/128x128/30_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Saber tooth zentaur    |
-|31_0       |Patchimal  |![](./sprites/monsters/128x128/31_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Patch animal           |
-|32_0       |Mustagon   |![](./sprites/monsters/128x128/32_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Mustage hexagon        |
-|33_0       |Charmella  |![](./sprites/monsters/128x128/33_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Charmeleon umbrella    |
-|34_0       |Suitowl    |![](./sprites/monsters/128x128/34_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Suit owl               |
-|35_0       |Glomon     |![](./sprites/monsters/128x128/35_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Glove demon            |
-|36_0       |Scrillar   |![](./sprites/monsters/128x128/36_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Screen caterpillar     |
-|37_0       |Ruffoon    |![](./sprites/monsters/128x128/37_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Ruff coon              |
-|38_0       |Hikail     |![](./sprites/monsters/128x128/38_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Hitchiking snail       |
-|39_0       |Flear      |![](./sprites/monsters/128x128/39_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Flash bear             |
-|40_0       |Strenguin  |![](./sprites/monsters/128x128/40_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Striped penguin        |
+|25_0       |Trasto                             |![](./sprites/monsters/128x128/25_0.png)|![](./sprites/monsters/16x16/25_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Transparent gastronomy |
+|26_0       |Spall                              |![](./sprites/monsters/128x128/26_0.png)|![](./sprites/monsters/16x16/26_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Spring ball            |
+|26_1       |Grall                              |![](./sprites/monsters/128x128/26_1.png)|![](./sprites/monsters/16x16/26_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Grim ball              |
+|27_0       |Circeece                           |![](./sprites/monsters/128x128/27_0.png)|![](./sprites/monsters/16x16/27_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Circuit board fleece   |
+|27_1       |Quanthus                           |![](./sprites/monsters/128x128/27_1.png)|![](./sprites/monsters/16x16/27_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Quantum rhombus        |
+|28_0       |Spectrug                           |![](./sprites/monsters/128x128/28_0.png)|![](./sprites/monsters/16x16/28_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Spectrum bug           |
+|29_0       |Clocky                             |![](./sprites/monsters/128x128/29_0.png)|![](./sprites/monsters/16x16/29_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Clock                  |
+|30_0       |Sabertaur                          |![](./sprites/monsters/128x128/30_0.png)|![](./sprites/monsters/16x16/30_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Saber tooth zentaur    |
+|31_0       |Patchimal                          |![](./sprites/monsters/128x128/31_0.png)|![](./sprites/monsters/16x16/31_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Patch animal           |
+|32_0       |Mustagon                           |![](./sprites/monsters/128x128/32_0.png)|![](./sprites/monsters/16x16/32_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Mustage hexagon        |
+|33_0       |Charmella                          |![](./sprites/monsters/128x128/33_0.png)|![](./sprites/monsters/16x16/33_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Charmeleon umbrella    |
+|34_0       |Suitowl                            |![](./sprites/monsters/128x128/34_0.png)|![](./sprites/monsters/16x16/34_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Suit owl               |
+|35_0       |Glomon                             |![](./sprites/monsters/128x128/35_0.png)|![](./sprites/monsters/16x16/35_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Glove demon            |
+|36_0       |Scrillar                           |![](./sprites/monsters/128x128/36_0.png)|![](./sprites/monsters/16x16/36_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Screen caterpillar     |
+|37_0       |Ruffoon                            |![](./sprites/monsters/128x128/37_0.png)|![](./sprites/monsters/16x16/37_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Ruff coon              |
+|38_0       |Hikail                             |![](./sprites/monsters/128x128/38_0.png)|![](./sprites/monsters/16x16/38_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Hitchiking snail       |
+|39_0       |Flear                              |![](./sprites/monsters/128x128/39_0.png)|![](./sprites/monsters/16x16/39_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Flash bear             |
+|40_0       |Strenguin                          |![](./sprites/monsters/128x128/40_0.png)|![](./sprites/monsters/16x16/40_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Striped penguin        |
 |41_0       |Pigraft    |![](./sprites/monsters/128x128/41_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Pig aircraft           |
 |42_0       |Sprorm     |![](./sprites/monsters/128x128/42_0.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Spring worm            |
 |42_1       |Sphake     |![](./sprites/monsters/128x128/42_1.png)|                       |![](./sprites/monsters/64x64/0_0.png)   |Sphere snake           |
