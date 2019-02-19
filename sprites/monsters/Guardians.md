@@ -107,19 +107,19 @@ This is a comprehensive list of all available Guarian Monsters.
 |45_0       |Ferrell                            |![](./128x128/45_0.png)|![](./16x16/45_0.png)  |![](./64x64/0_0.png)   |Ferret shell           |
 |45_1       |Ferrmor                            |![](./128x128/45_1.png)|![](./16x16/45_1.png)  |![](./64x64/0_0.png)   |Ferret armor           |
 |45_2       |Ferrior                            |![](./128x128/45_2.png)|![](./16x16/45_2.png)  |![](./64x64/0_0.png)   |Ferret warrior         |
-|46_0       |Cnail      |![](./128x128/46_0.png)|                       |![](./64x64/0_0.png)   |Candle snail           |
-|46_1       |Blastail   |![](./128x128/46_1.png)|                       |![](./64x64/0_0.png)   |Blasting snail         |
-|46_2       |Chandelail |![](./128x128/46_2.png)|                       |![](./64x64/0_0.png)   |Chandelier snail       |
-|47_0       |Witty      |![](./128x128/47_0.png)|                       |![](./64x64/0_0.png)   |Witch kitty            |
-|47_1       |Macat      |![](./128x128/47_1.png)|                       |![](./64x64/0_0.png)   |Magical cat            |
-|47_2       |Wizane     |![](./128x128/47_2.png)|                       |![](./64x64/0_0.png)   |Wizard mane            |
-|47_3       |Wizereign  |![](./128x128/47_3.png)|                       |![](./64x64/0_0.png)   |Wizard sovereign       |
-|48_0       |Kumihol    |![](./128x128/48_0.png)|                       |![](./64x64/0_0.png)   |Kumiho eol-eum         |
-|49_0       |Choros     |![](./128x128/49_0.png)|                       |![](./64x64/0_0.png)   |greek: space           |
-|50_0       |Ora        |![](./128x128/50_0.png)|                       |![](./64x64/0_0.png)   |greek: time            |
-|51_0       |Spirell    |![](./128x128/51_0.png)|                       |![](./64x64/0_0.png)   |Spider shell           |
-|51_1       |Spidion    |![](./128x128/51_1.png)|                       |![](./64x64/0_0.png)   |Spider scorpion        |
-|51_2       |Sporrior   |![](./128x128/51_2.png)|                       |![](./64x64/0_0.png)   |Spider warrior         |
+|46_0       |Cnail                              |![](./128x128/46_0.png)|![](./16x16/46_0.png)  |![](./64x64/0_0.png)   |Candle snail           |
+|46_1       |Blastail                           |![](./128x128/46_1.png)|![](./16x16/46_1.png)  |![](./64x64/0_0.png)   |Blasting snail         |
+|46_2       |Chandelail                         |![](./128x128/46_2.png)|![](./16x16/46_2.png)  |![](./64x64/0_0.png)   |Chandelier snail       |
+|47_0       |Witty                              |![](./128x128/47_0.png)|![](./16x16/47_0.png)  |![](./64x64/0_0.png)   |Witch kitty            |
+|47_1       |Macat                              |![](./128x128/47_1.png)|![](./16x16/47_1.png)  |![](./64x64/0_0.png)   |Magical cat            |
+|47_2       |Wizane                             |![](./128x128/47_2.png)|![](./16x16/47_2.png)  |![](./64x64/0_0.png)   |Wizard mane            |
+|47_3       |Wizereign                          |![](./128x128/47_3.png)|![](./16x16/47_3.png)  |![](./64x64/0_0.png)   |Wizard sovereign       |
+|48_0       |Kumihol                            |![](./128x128/48_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Kumiho eol-eum         |
+|49_0       |Choros                             |![](./128x128/49_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |greek: space           |
+|50_0       |Ora                                |![](./128x128/50_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |greek: time            |
+|51_0       |Spirell                            |![](./128x128/51_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Spider shell           |
+|51_1       |Spidion                            |![](./128x128/51_1.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Spider scorpion        |
+|51_2       |Sporrior                           |![](./128x128/51_2.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Spider warrior         |
 
 
 
