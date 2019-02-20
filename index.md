@@ -110,12 +110,12 @@ Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
 |47_1       |Macat                              |![](./sprites/monsters/128x128/47_1.png)|![](./sprites/monsters/16x16/47_1.png)  |![](./sprites/monsters/64x64/0_0.png)   |Magical cat            |
 |47_2       |Wizane                             |![](./sprites/monsters/128x128/47_2.png)|![](./sprites/monsters/16x16/47_2.png)  |![](./sprites/monsters/64x64/0_0.png)   |Wizard mane            |
 |47_3       |Wizereign                          |![](./sprites/monsters/128x128/47_3.png)|![](./sprites/monsters/16x16/47_3.png)  |![](./sprites/monsters/64x64/0_0.png)   |Wizard sovereign       |
-|48_0       |Kumihol                            |![](./sprites/monsters/128x128/48_0.png)|![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |Kumiho eol-eum         |
-|49_0       |Choros                             |![](./sprites/monsters/128x128/49_0.png)|![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |greek: space           |
-|50_0       |Ora                                |![](./sprites/monsters/128x128/50_0.png)|![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |greek: time            |
-|51_0       |Spirell                            |![](./sprites/monsters/128x128/51_0.png)|![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |Spider shell           |
-|51_1       |Spidion                            |![](./sprites/monsters/128x128/51_1.png)|![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |Spider scorpion        |
-|51_2       |Sporrior                           |![](./sprites/monsters/128x128/51_2.png)|![](./sprites/monsters/16x16/0_0.png)   |![](./sprites/monsters/64x64/0_0.png)   |Spider warrior         |
+|48_0       |Kumihol                            |![](./sprites/monsters/128x128/48_0.png)|![](./sprites/monsters/16x16/48_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Kumiho eol-eum         |
+|49_0       |Choros                             |![](./sprites/monsters/128x128/49_0.png)|![](./sprites/monsters/16x16/49_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |greek: space           |
+|50_0       |Ora                                |![](./sprites/monsters/128x128/50_0.png)|![](./sprites/monsters/16x16/50_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |greek: time            |
+|51_0       |Spirell                            |![](./sprites/monsters/128x128/51_0.png)|![](./sprites/monsters/16x16/51_0.png)  |![](./sprites/monsters/64x64/0_0.png)   |Spider shell           |
+|51_1       |Spidion                            |![](./sprites/monsters/128x128/51_1.png)|![](./sprites/monsters/animation_16x16/51_1.gif)  |![](./sprites/monsters/64x64/0_0.png)   |Spider scorpion        |
+|51_2       |Sporrior                           |![](./sprites/monsters/128x128/51_2.png)|![](./sprites/monsters/animation_16x16/51_2.gif)  |![](./sprites/monsters/64x64/0_0.png)   |Spider warrior         |
 
 
 

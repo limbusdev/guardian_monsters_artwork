@@ -114,12 +114,12 @@ This is a comprehensive list of all available Guarian Monsters.
 |47_1       |Macat                              |![](./128x128/47_1.png)|![](./16x16/47_1.png)  |![](./64x64/0_0.png)   |Magical cat            |
 |47_2       |Wizane                             |![](./128x128/47_2.png)|![](./16x16/47_2.png)  |![](./64x64/0_0.png)   |Wizard mane            |
 |47_3       |Wizereign                          |![](./128x128/47_3.png)|![](./16x16/47_3.png)  |![](./64x64/0_0.png)   |Wizard sovereign       |
-|48_0       |Kumihol                            |![](./128x128/48_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Kumiho eol-eum         |
-|49_0       |Choros                             |![](./128x128/49_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |greek: space           |
-|50_0       |Ora                                |![](./128x128/50_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |greek: time            |
-|51_0       |Spirell                            |![](./128x128/51_0.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Spider shell           |
-|51_1       |Spidion                            |![](./128x128/51_1.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Spider scorpion        |
-|51_2       |Sporrior                           |![](./128x128/51_2.png)|![](./16x16/0_0.png)   |![](./64x64/0_0.png)   |Spider warrior         |
+|48_0       |Kumihol                            |![](./128x128/48_0.png)|![](./16x16/48_0.png)  |![](./64x64/0_0.png)   |Kumiho eol-eum         |
+|49_0       |Choros                             |![](./128x128/49_0.png)|![](./16x16/49_0.png)  |![](./64x64/0_0.png)   |greek: space           |
+|50_0       |Ora                                |![](./128x128/50_0.png)|![](./16x16/50_0.png)  |![](./64x64/0_0.png)   |greek: time            |
+|51_0       |Spirell                            |![](./128x128/51_0.png)|![](./16x16/51_0.png)  |![](./64x64/0_0.png)   |Spider shell           |
+|51_1       |Spidion                            |![](./128x128/51_1.png)|![](./animation_16x16/51_1.gif)  |![](./64x64/0_0.png)   |Spider scorpion        |
+|51_2       |Sporrior                           |![](./128x128/51_2.png)|![](./animation_16x16/51_2.gif)  |![](./64x64/0_0.png)   |Spider warrior         |
 
 
 
