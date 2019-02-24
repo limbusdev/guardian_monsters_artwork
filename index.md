@@ -2,6 +2,8 @@
 title: Guardian Monsters Artwork
 ---
 
+<link rel="stylesheet" href="assets/css/style.scss">
+
 ![](./documents/img/logo.png)
 
 ## Guardian Monsters
