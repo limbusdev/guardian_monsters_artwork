@@ -120,6 +120,13 @@ Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
  
 
 
+## From Back
+
+|ID         |Name                               |128x128                                              |64x64                                                |
+|-----------|-----------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+|01_0       |Fordin                             |![](./sprites/monsters/128x128_back/1_0_back_128.png)|![](./sprites/monsters/64x64_back/1_0_back_64.png)   |
+
+
 ## Deprecated Monsters
 
 Free to use under CC-BY-4.0, no name restrictions.
