@@ -2,6 +2,12 @@
 title: Guardian Monsters Artwork
 ---
 
+<style>
+img {
+  image-rendering: pixelated;
+}  
+</style>
+
 ![](./documents/img/logo.png)
 
 ## Guardian Monsters
