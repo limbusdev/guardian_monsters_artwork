@@ -21,8 +21,8 @@ Contains Guardian Monsters Artwork by Georg Eckert / limbusdev
 |1_0        |[Fordin](./encyclo/1.md)           |![](./sprites/monsters/128x128/1_0.png) |![](./sprites/monsters/animation_16x16/1_0.gif) |![](./sprites/monsters/64x64/1_0.png)   |Forest dinosaur        |
 |1_1        |[Stegofor](./encyclo/1.md)         |![](./sprites/monsters/128x128/1_1.png) |![](./sprites/monsters/16x16/1_1.png)           |![](./sprites/monsters/64x64/1_1.png)   |Stegosaurus forest     |
 |1_2        |[Brachifor](./encyclo/1.md)        |![](./sprites/monsters/128x128/1_2.png) |![](./sprites/monsters/16x16/1_2.png)           |![](./sprites/monsters/64x64/1_2.png)   |Brachiosaurus forest   |
-|2_0        |[Kroki](./encyclo/2.md)            |![](./sprites/monsters/128x128/2_0.png) |![](./sprites/monsters/16x16/2_0.png)           |![](./sprites/monsters/64x64/0_0.png)   |Crocodile              |
-|2_1        |[Krokivip](./encyclo/2.md)         |![](./sprites/monsters/128x128/2_1.png) |![](./sprites/monsters/16x16/2_1.png)           |![](./sprites/monsters/64x64/0_0.png)   |Crocodile viper        |
+|2_0        |[Kroki](./encyclo/2.md)            |![](./sprites/monsters/128x128/2_0.png) |![](./sprites/monsters/16x16/2_0.png)           |![](./sprites/monsters/64x64/2_0.png)   |Crocodile              |
+|2_1        |[Krokivip](./encyclo/2.md)         |![](./sprites/monsters/128x128/2_1.png) |![](./sprites/monsters/16x16/2_1.png)           |![](./sprites/monsters/64x64/2_1.png)   |Crocodile viper        |
 |2_2        |[Leviadile](./encyclo/2.md)        |![](./sprites/monsters/128x128/2_2.png) |![](./sprites/monsters/16x16/2_2.png)           |![](./sprites/monsters/64x64/0_0.png)   |Leviathan crocodile    |
 |3_0        |[Devidin](./encyclo/3.md)          |![](./sprites/monsters/128x128/3_0.png) |![](./sprites/monsters/16x16/3_0.png)           |![](./sprites/monsters/64x64/0_0.png)   |Devil dinosaur         |
 |3_1        |[Devidra](./encyclo/3.md)          |![](./sprites/monsters/128x128/3_1.png) |![](./sprites/monsters/16x16/3_1.png)           |![](./sprites/monsters/64x64/0_0.png)   |Devil dragon           |
