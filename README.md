@@ -8,8 +8,6 @@ This projects tries to help you, develop your first games. If you try to find as
 
 ![](./sprites/monsters/128x128/3_2.png)
 
-Only the monster sprites have some restrictions, see [Guardians](./sprites/monsters/Guardians.md) for more information.
-
 
 # Previews
 
