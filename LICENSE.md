@@ -4,7 +4,7 @@ Unless stated otherwise, everything here is licensed under Creative Commons Attr
 
 This means you are free to use the artwork in any way you want. The only thing you have to do is, giving proper credit to me in your software's credits screen (in software) like this:
 
-> Includes Guardian Monsters Artwork by Georg Eckert / limbusdev
+> Includes Guardian Monsters Artwork by Georg Eckert / lucidtanooki
 
 # Exceptions
 
@@ -16,7 +16,7 @@ The Guardian Monsters Logo is copyrighted. All rights reserved. Please do not us
 
 ## Monsters
 
-You are allowed to use the monsters in any way you want. But you must use the given names, to keep them consistent everywhere.
+You are allowed to use the monsters in any way you want (CC-BY-4.0). I would be happy if you would use the names I gave them, so they are known under the same names everywhere and are recognized. But this is not mandatory anymore.
 
 # Problems
 
