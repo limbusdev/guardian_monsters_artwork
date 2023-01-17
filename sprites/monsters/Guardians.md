@@ -2,13 +2,17 @@
 
 ## Copyright
 
-The monsters and sprites listed here are under Creative Commons 4.0 (CC-BY-4.0). This means you are free to use them anywhere with only a few strings attached. This is to make sure the monsters are known everywhere under the same names. Rules:
+The monsters and sprites listed here are under Creative Commons 4.0 (CC-BY-4.0). This means you are free to use them anywhere with only a few strings attached. Rules:
 
 * always give proper credit to the author of the monsters: Georg Eckert / limbusdev
-* always use the monster names provided here
 * if you alter the sprites, make sure to still pass the original authors name on
 * the license only applies to the sprites, not to your code
 * otherwise do whatever you want
+
+The following condition was part of the license but I removed it to give more freedom. I would be happy if everyone follows it, but it is not mandatory anymore:
+
+* (please) always use the monster names provided here
+* This is to make sure the monsters are known everywhere under the same names.
 
 ## Localization
 
